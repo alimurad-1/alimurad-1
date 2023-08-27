@@ -42,8 +42,8 @@ I am an under grad computer science student based in Lahore, Pakistan. With a st
 
 <br />
 
-## Connect
-<a  width="40px" href="www.linkedin.com/in/ali-murad-6ba258204">
+## Let's Connect
+<a  width="40px" href="https://www.linkedin.com/in/ali-murad-6ba258204/">
   <img align="left"  width="32px" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" />
 </a>
 <a href="mailto:alimuradbukhari12345@gmail.com">
