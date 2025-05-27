@@ -2,7 +2,7 @@
 
 
 
-I am an under grad computer science student based in Lahore, Pakistan. With a strong background in software engineering, I'm driven by a passion for creating cutting-edge real-world applications that address practical challenges. My focus lies in leveraging the power of AI and machine learning to develop solutions that make a genuine impact.
+With a strong background in software engineering, I'm driven by a passion for creating cutting-edge real-world applications that address practical challenges. My focus lies in leveraging the power of AI and machine learning to develop solutions that make a genuine impact.
 
 
 ## My Tech Stack
