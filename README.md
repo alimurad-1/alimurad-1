@@ -2,7 +2,7 @@
 
 # Ali Murad
 
-### Full-Stack Engineer — React · React Native · Node.js · AI · Web3
+### Solutions Engineer
 
 I build fast products, recently cut page load times by up to **99%** and reduced a crypto wallet's creation time from minutes to under a second. I like owning things end-to-end: backend architecture, performance, and pixel-level frontend polish.
 
